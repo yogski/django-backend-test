@@ -72,5 +72,5 @@ Create Super user
     $ python manage.py runserver
 
 ### Run Tests
-    Test is currently available using Postman Collection Runner. Please head to https://documenter.getpostman.com/view/2425239/T1LMhmag for complete list of available endpoints for testing.
+Test is currently available using Postman Collection Runner. Please head to https://documenter.getpostman.com/view/2425239/T1LMhmag for complete list of available endpoints for testing.
 
